@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaiwongam.casjay.com/sitemap.xml
